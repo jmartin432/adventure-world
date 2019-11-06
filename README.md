@@ -40,5 +40,6 @@
 * Hopefully this is all clear. If you notice any bugs or have any questions please e-mail me at
     <a href="mailto:info@justinlmartin.com" target="_blank">info@justinlmartin.com</a>. 
 
+* I did not make the ASCII art.
 
 ## Good Luck Brave Hero! ##
